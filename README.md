@@ -1,4 +1,4 @@
-SISTEM DATABASE SISWA
+# PengkodeanDanPemrograman-Sistem-DatabaseSiswa
 
 NAMA: AISHA SMITA MADA
 
@@ -7,10 +7,10 @@ NIM : 12030122120058
 Referensi GitHub: https://github.com/farhanadeata/WebCRUD
 
 
-Perbedaan tampilan Sistem asli dan Sistem Baru
+# Perbedaan tampilan Sistem asli dan Sistem Baru
 
 
-BEFORE
+# BEFORE
 
 Tampilan untuk Login
 ![Screenshot (92)](https://github.com/AishaSmitaMada/PengkodeanDanPemrograman-Sistem-DatabaseSiswa/assets/153173592/72ea937c-ec1d-4855-8f4e-1a79a748a6a0)
@@ -22,7 +22,7 @@ Tampilan untuk Penambahan Data
 ![Screenshot (94)](https://github.com/AishaSmitaMada/PengkodeanDanPemrograman-Sistem-DatabaseSiswa/assets/153173592/45a44d16-4425-44b9-8bd8-f23e22b1d072)
 
 
-AFTER
+# AFTER
 
 Tampilan untuk Login
 ![Screenshot (96)](https://github.com/AishaSmitaMada/PengkodeanDanPemrograman-Sistem-DatabaseSiswa/assets/153173592/7e3e33c6-8160-4afc-86a7-d7718f0da482)
@@ -40,5 +40,5 @@ Tampilan untuk penambahan data(bagian bawah)
 ![Screenshot (104)](https://github.com/AishaSmitaMada/PengkodeanDanPemrograman-Sistem-DatabaseSiswa/assets/153173592/98efcb7f-0f22-4e27-ae9a-fa79d00fb9a0)
 
 
-ERD dari Sistem Database Siswa
+# ERD dari Sistem Database Siswa
 ![WhatsApp Image 2024-04-17 at 00 54 24_cb8bc540](https://github.com/AishaSmitaMada/PengkodeanDanPemrograman-Sistem-DatabaseSiswa/assets/153173592/61a37de8-ac97-4c07-9043-7002a67e02ac)
