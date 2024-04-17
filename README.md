@@ -14,13 +14,11 @@ Tampilan untuk Index
 
 Tampilan untuk Penambahan Data
 ![Screenshot (94)](https://github.com/AishaSmitaMada/PengkodeanDanPemrograman-Sistem-DatabaseSiswa/assets/153173592/45a44d16-4425-44b9-8bd8-f23e22b1d072)
-![Screenshot (95)](https://github.com/AishaSmitaMada/PengkodeanDanPemrograman-Sistem-DatabaseSiswa/assets/153173592/89ba8c8f-29b0-41f7-a135-6ee9fe5ef078)
 
 
 AFTER
 
 Tampilan untuk Login
-![Screenshot (96)](https://github.com/AishaSmitaMada/PengkodeanDanPemrograman-Sistem-DatabaseSiswa/assets/153173592/de74ba77-fb32-4438-ac71-f56ba1104506)
 ![Screenshot (97)](https://github.com/AishaSmitaMada/PengkodeanDanPemrograman-Sistem-DatabaseSiswa/assets/153173592/8b1ae41b-c87a-4305-8305-0b94de6a3043)
 
 Tampilan untuk Index
